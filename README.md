@@ -50,9 +50,8 @@ I’m passionate about transforming raw data into meaningful insights that suppo
 - Built an interactive Power BI dashboard to analyze e-commerce sales performance and customer purchasing behavior.
 - Identified key trends in revenue, customer demographics, product categories, payment methods, and discount effectiveness.
 - Delivered actionable insights to support sales optimization, customer engagement, and data-driven business decisions
-  
 
-📊 <a herf= 'https://github.com/atukejeremih/Pharmacy-Project.git/'>Pharmacy </a> - Pharmacy Chain Distributor Across Europe Data Analysis Report
+📊 <a href= 'https://github.com/atukejeremih/Pharmacy-Project.git/'>Pharmacy</a> - Pharmacy Chain Distributor Across Europe Data Analysis Report
 
 - Built an interactive Power BI dashboard to analyze pharmacy sales and distribution performance across Europe.
 - Visualized key KPIs, regional trends, product performance, and inventory insights.
@@ -60,8 +59,10 @@ I’m passionate about transforming raw data into meaningful insights that suppo
 
 
 ### Stats
-<img src="https://github-readme-stats.vercel.app/api?username=InsightCracker&&show_icons=true&theme=radical&line_height=27&v=5" alt="InsightCracker's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=InsightCracker&theme=radical&line" alt="InsightCracker's Github Streak-Stats" />
+<img src="https://github-readme-stats.vercel.app/api?
+username=atukejeremih&&show_icons=true&theme=radical&line_height=27&v=5" alt="atukejeremih's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atukejeremih&theme=radical&line" alt="atukejeremih
+'s Github Streak-Stats" />
 
 -----
 🌐 Connect With Me

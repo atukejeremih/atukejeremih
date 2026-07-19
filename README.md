@@ -38,21 +38,21 @@ I’m passionate about transforming raw data into meaningful insights that suppo
 
 
 ### 🚀 Projects
-📊 <a href= 'https://github.com/atukejeremih/Bankstatement-Cleaning-Project-.git'>Bankstatement Cleaning Project</a>  
+📊 <a href= 'https://github.com/atukejeremih/Bankstatement-Cleaning-Project-.git'>Bankstatement</a> Bankstatement Cleaning Project
 
 - Cleaned and transformed employee performance data by resolving duplicates, missing values, and formatting inconsistencies.
 - Standardized data structures and created derived fields to improve reporting accuracy.
 - Produced a reliable dataset that enabled meaningful workforce insights and data-driven decision-making
 
 
-📈<a href= 'https://github.com/atukejeremih/E-Commerce-Behavior-and-Sales-Overview-.git'>E-Commerce</a>E-Commerce Behavior and Sales Overview
+📈<a href= 'https://github.com/atukejeremih/E-Commerce-Behavior-and-Sales-Overview-.git'> E-Commerce</a>E-Commerce Behavior and Sales Overview
 
 - Built an interactive Power BI dashboard to analyze e-commerce sales performance and customer purchasing behavior.
 - Identified key trends in revenue, customer demographics, product categories, payment methods, and discount effectiveness.
 - Delivered actionable insights to support sales optimization, customer engagement, and data-driven business decisions
   
 
-📊 <a herf= 'https://github.com/atukejeremih/Pharmacy-Project.git'>Pharma</a>Pharmacy Chain Distributor Across Europe Data Analysis Report
+📊 <a herf= 'https://github.com/atukejeremih/Pharmacy-Project.git'>Pharmacy </a> - Pharmacy Chain Distributor Across Europe Data Analysis Report
 
 - Built an interactive Power BI dashboard to analyze pharmacy sales and distribution performance across Europe.
 - Visualized key KPIs, regional trends, product performance, and inventory insights.

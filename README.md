@@ -61,12 +61,11 @@ I’m passionate about transforming raw data into meaningful insights that suppo
 
 
 
-
-
 ### Stats
-<img src="https://github-readme-stats.vercel.app/api?
-username=atukejeremih&&show_icons=true&theme=radical&line_height=27&v=5" alt="atukejeremih's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atukejeremih&theme=radical&line" alt="atukejeremih's Github Streak-Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=InsightCracker&&show_icons=true&theme=radical&line_height=27&v=5" alt="InsightCracker's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=InsightCracker&theme=radical&line" alt="InsightCracker's Github Streak-Stats" />
+
+
 
 -----
 🌐 Connect With Me

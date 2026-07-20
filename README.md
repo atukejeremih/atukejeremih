@@ -59,10 +59,10 @@ I’m passionate about transforming raw data into meaningful insights that suppo
 
 
 ### Stats
-<img src="https://github-readme-stats.vercel.app/api?
-username=atukejeremih&&show_icons=true&theme=radical&line_height=27&v=5" alt="atukejeremih's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atukejeremih&theme=radical&line" alt="atukejeremih's Github Streak-Stats" />
 
+<img src="https://github-readme-stats.vercel.app/api?
+username=atukejeremih&show_icons=true&theme=radical&line_height=27&v=5" alt="atukejeremih's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=atukejeremih&theme=radical" alt="atukejeremih's GitHub Streak Stats" />
 
 
 -----
